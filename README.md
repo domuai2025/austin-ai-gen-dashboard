@@ -96,9 +96,7 @@ CREATE TABLE chart_data (
 );
 ```
 
-## Backend Development Tasks
-
-As a backend developer, you'll need to:
+## Backend Development 
 
 1. Set up the Supabase project and create the necessary tables.
 2. Implement server-side functions or API routes to handle data operations (CRUD) for each table.
@@ -151,10 +149,6 @@ The frontend is deployed on Vercel. For the backend:
 1. Ensure all Supabase tables and functions are set up in your production Supabase project.
 2. Update environment variables in your Vercel project settings.
 3. Set up proper CORS settings in Supabase to allow requests from your deployed frontend.
-
-## Contributing
-
-Please follow the existing code style and file structure when contributing to this project. Create a new branch for each feature or bug fix, and submit a pull request for review.
 
 ## License
 
